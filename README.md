@@ -17,4 +17,4 @@ This is a simple **CRUD application** built using **ASP.NET MVC** and **Entity F
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SheelaDevi-1/CurdOpertion.git
+   git clone https://github.com/SheelaDevi-1/CRUD-API.git
